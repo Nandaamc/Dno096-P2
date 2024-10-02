@@ -1,7 +1,7 @@
 [
     {
         "nombre": "kuky",
-        "descripcion": "Trabajo realizado en Taller 5 en conjunto con la empresa Nestle, se buscaba innovar productos de la linea de la galleta Kuky",
+        "descripcion": "Trabajo realizado en Taller 5 en conjunto con la empresa Nestle, se buscaba innovar productos de la linea de la galleta Kuky. Al equipo se le entregó un producto de la marca y se tuvo que hacer un estudio de este, indentificando problemas y oportunidades diseño. Se logró llegar a dos distintos reultados que se pueden ver desplegados en la lámina final.",
         "fecha": "2023",
         "signo": "productos",
         "foto": "https://github.com/user-attachments/assets/15fce562-71ed-4283-a33d-808b386159f9",
@@ -10,7 +10,7 @@
     },
     {
         "nombre": "ámbar",
-        "descripcion": "Trabajo realizado en Taller 4, producto hecho a base de un biomaterial.",
+        "descripcion": "Trabajo realizado en Taller 4, producto hecho a base de un biomaterial. Se trabajo con una receta abierta de un biomaterial, más conocido como cuero de fruta. Su principal característica es que este se puede disolver en agua caliente dejando 0 residuos",
         "fecha": "2023",
         "signo": "productos",
         "foto": "https://github.com/user-attachments/assets/fc7c7eaf-5735-449c-abc5-47f5698a0fc8",
@@ -19,7 +19,7 @@
     },
     {
         "nombre": "sisam ux",
-        "descripcion": "Trabajo freelancer, se hizo un rediseño completo de la página web de un centro de salud mental",
+        "descripcion": "Trabajo freelancer, se hizo un rediseño completo de la página web de un centro de salud mental. Presentaba principalmente problemas de diagramación, por lo que se pidió un diseño nuevo marcando la identidad de la marca",
         "fecha": "2024",
         "signo": "web ux",
         "foto": "https://github.com/user-attachments/assets/7093a134-d223-4a0f-968b-311d0b8e8e8f",
@@ -37,7 +37,7 @@
     },
     {
         "nombre": "moodboards",
-        "descripcion": "Recopilación visual de moodboards que se han hecho para varias intancias en la carrera.",
+        "descripcion": "Recopilación visual de moodboards que se han hecho para varias intancias en la carrera. Son de distintos proyectos, pero todos cumplen el objetivo de querer trasmitir sensaciones y emociones",
         "fecha": "2021-2024",
         "signo": "visual",
         "foto": "https://github.com/user-attachments/assets/ca925aa8-21b9-475f-9ba7-924342a7fd70",
@@ -107,7 +107,6 @@
         "fotos": "https://github.com/user-attachments/assets/ecb75fe9-6574-443f-90fe-2ee2cc9c4c1e",
         "github": "https://github.com/Nandaamc"
     }
-
 ]
 
 
