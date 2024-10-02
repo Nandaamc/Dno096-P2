@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="es">
+    <head>
+        <meta charset="utf-8" />
+        <title>📂 PORTAFOLIO DISEÑO</title>
+        <link rel="stylesheet" href="style.css" />
+    </head>
+    <body>
+        <header>
+            <h1></h1>
+            <a href="index.html">‹ Volver al Portafolio de Diseño</a>
+        </header>
+
+        <main>
+            <h2>SOBRE MI</h2>
+            <p>Soy estudiante de Diseño Integral en la Universidad Católica (UC), especializada en diseño estratégico de espacios digitales y publicitarios. Uso diversas herramientas gráficas y audiovisuales para crear soluciones de diseño innovadoras, buscando una comunicación visual eficiente y comprensible. 
+            </p>
+
+            <img src="https://github.com/user-attachments/assets/868cc1c4-eced-44c7-b1f1-14fb6c90a77c" alt="Imagen de Fernanda Mamani" />
+
+            
+            <p>
+                <a href="https://www.behance.net/fernandamamani" target="_blank">Ver mi portafolio en Behance</a>
+            </p>
+        </main>
+
+        <script>
+            const autoria = document.querySelector("h1");
+            autoria.innerHTML = "FERNANDA MAMANI";
+
+            async function astros() {
+                const consulta = await fetch("https://raw.githubusercontent.com/Nandaamc/sobre-mi/refs/heads/main/README.md");
+                const data = await consulta.json();
+                console.log(data);
+
+                
+            }
+
+            astros().catch((error) => console.error(error));
+        </script>
+    </body>
+</html>
