@@ -21,7 +21,7 @@
         "nombre": "sisam ux",
         "descripcion": "Trabajo freelancer, se hizo un rediseño completo de la página web de un centro de salud mental",
         "fecha": "2024",
-        "signo": "web",
+        "signo": "web ux",
         "foto": "https://github.com/user-attachments/assets/f063b623-32e1-4bab-b996-162a94985bdd",
         "fotos": "https://github.com/user-attachments/assets/ee7f1964-0a3f-46c2-af91-c6c61de316a8",
         "github": "https://github.com/Nandaamc"
