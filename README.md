@@ -22,7 +22,7 @@
         "descripcion": "Trabajo freelancer, se hizo un rediseño completo de la página web de un centro de salud mental",
         "fecha": "2024",
         "signo": "web ux",
-        "foto": "https://github.com/user-attachments/assets/f063b623-32e1-4bab-b996-162a94985bdd",
+        "foto": "https://github.com/user-attachments/assets/7093a134-d223-4a0f-968b-311d0b8e8e8f",
         "fotos": "https://github.com/user-attachments/assets/ee7f1964-0a3f-46c2-af91-c6c61de316a8",
         "github": "https://github.com/Nandaamc"
     },
@@ -107,6 +107,8 @@
         "fotos": "https://github.com/user-attachments/assets/ecb75fe9-6574-443f-90fe-2ee2cc9c4c1e",
         "github": "https://github.com/Nandaamc"
     }
+
 ]
+
 
 
