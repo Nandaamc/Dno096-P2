@@ -23,7 +23,7 @@
         "fecha": "2024",
         "signo": "Portafolio de Diseño Web",
         "foto": "https://github.com/user-attachments/assets/f063b623-32e1-4bab-b996-162a94985bdd",
-        "fotos": "https://picsum.photos/id/442/900/600",
+        "fotos": "https://github.com/user-attachments/assets/ee7f1964-0a3f-46c2-af91-c6c61de316a8",
         "github": "https://github.com/Nandaamc"
     },
     {
@@ -108,3 +108,6 @@
         "github": "https://github.com/Nandaamc"
     }
 ]
+
+
+
